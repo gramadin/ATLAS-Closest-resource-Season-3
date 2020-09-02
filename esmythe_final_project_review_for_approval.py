@@ -1,4 +1,4 @@
-##Created by Edward Smythe during Python SCripting course at SDSU as final Project Started 10 Nov 2019
+##Created by gramadin during Python Scripting course at SDSU as final Project Started 10 Nov 2019
 ##For questions or feedback email esmythe1518@SDSU.edu, Subject ATLAS Resource tracker and path generator
 import numpy as np
 import pandas as pd
